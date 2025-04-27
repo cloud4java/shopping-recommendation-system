@@ -1,5 +1,3 @@
-gh auth login# Shopping Recommendation System
-
 A Spring Boot application that uses Spring AI with OpenAI to generate personalized shopping recommendations based on user preferences and purchase history.
 
 ## Features
